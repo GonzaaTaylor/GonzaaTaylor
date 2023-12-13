@@ -16,6 +16,7 @@
 <br>
 
 - I am passionate about web development
+- Soy de Argentina
 - Playing LOL at spare time
 - I learned web development thanks to GeneracionT and I continue studying on my own to learn more
 - I’m currently open for an Intern or a new job opportunity
